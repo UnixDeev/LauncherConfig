@@ -1,0 +1,33 @@
+{
+	"ListServerName": [
+		"Name 1",
+		"Name 2",
+		"Name 3",
+		"Name 4",
+	],
+	
+	"ListServerIP": [
+		"127.0.0.1",
+		"127.0.0.1",
+		"127.0.0.1",
+		"127.0.0.1",
+	],
+	
+	"ListServerPort": [
+		"10001",
+		"10001",
+		"10001",
+		"10001",
+	],
+	
+	"ListServerWebUpdate": [
+		"https://127.0.0.1/",
+	],
+	
+	"AutoUpdateStartEnabled": true,
+	"CheckFileStableEnabled": true,
+	"SendLogFileEnabled": true,
+	"RepairFileEnabled": true,
+	"MultiLanguageEnabled": true,
+	"CopyRightPoweredEnabled": true,
+}
