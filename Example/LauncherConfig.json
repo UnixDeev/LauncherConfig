@@ -12,7 +12,7 @@
 	],
 	
 	"ListServerWebUpdate": [
-		"https://127.0.0.1/"
+		"https://raw.githubusercontent.com/RFOControls/RFO_AutoUpdater/refs/heads/main/DebugUpdate/"
 	],
 	
 	"AutoUpdateStartEnabled": true,
