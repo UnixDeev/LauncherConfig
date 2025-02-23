@@ -21,6 +21,10 @@
 		"Russia",
 		"Europe"
 	],
+	"ListMultiLanguageDefault": [
+		"Russia"
+	],
+	
 	
 	"AutoUpdateStartEnabled": true,
 	"CheckFileStableEnabled": true,
