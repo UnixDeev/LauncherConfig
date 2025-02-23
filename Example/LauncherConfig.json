@@ -1,15 +1,18 @@
 {
 	"ListServerName": [
 		"Name 1 teawd",
+		"Name 2 teawd",
 		"qwdqw 2"
 	],
 	
 	"ListServerIP": [
 		"46.23.96.36",
+		"47.43.996.316",
 		"123.543.534.3"
 	],
 	
 	"ListServerPort": [
+		"10001",
 		"10001",
 		"10001"
 	],
