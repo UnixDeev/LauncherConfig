@@ -17,6 +17,10 @@
 	"ListServerWebUpdate": [
 		"https://raw.githubusercontent.com/RFOControls/RFO_AutoUpdater/refs/heads/main/DebugUpdate/"
 	],
+	"ListMultiLanguage": [
+		"Russia",
+		"Europe"
+	],
 	
 	"AutoUpdateStartEnabled": true,
 	"CheckFileStableEnabled": true,
