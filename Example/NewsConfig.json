@@ -23,7 +23,7 @@
         "url": "https://example.com/share"
       }
     ],
-    "published_at": "2025-02-28T12:00:00Z"
+    "published_at": "2025-02-28T12:00:00"
   },
   {
     "id": 2,
@@ -36,6 +36,6 @@
         "url": "https://example.com/article-2"
       }
     ],
-    "published_at": "2025-02-28T12:00:00Z"
+    "published_at": "2025-02-28T12:00:00"
   }
 ]
