@@ -22,7 +22,8 @@
         "text": "Поделиться",
         "url": "https://example.com/share"
       }
-    ]
+    ],
+    "PublishedAt": "28.02.2025 - 22:58"
   },
   {
     "id": 2,
@@ -34,6 +35,7 @@
         "text": "Читать дальше",
         "url": "https://example.com/article-2"
       }
-    ]
+    ],
+    "PublishedAt": "28.02.2025 - 22:58"
   }
 ]
