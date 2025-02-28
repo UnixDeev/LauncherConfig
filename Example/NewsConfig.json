@@ -5,11 +5,11 @@
     "text": "Основной текст новости. Здесь содержится описание события, детали и дополнительная информация.",
     "images": [
       {
-        "url": "https://example.com/image1.jpg",
+        "url": "https://naked-science.ru/wp-content/uploads/2016/04/article_albert-einstein-designer-2573099-1024x632.jpg",
         "alt": "Описание изображения"
       },
       {
-        "url": "https://example.com/image2.jpg",
+        "url": "https://avatars.mds.yandex.net/i?id=e8adebcbcb8475b80d2a97577f936201_l-5234162-images-thumbs&n=13",
         "alt": "Описание второго изображения"
       }
     ],
