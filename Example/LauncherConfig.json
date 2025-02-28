@@ -1,38 +1,41 @@
 {
-	"ListServerName": [
+	"ListProxyServerName": [
 		"Name 1 teawd",
 		"Name 2 teawd",
 		"qwdqw 2"
 	],
 	
-	"ListServerIP": [
+	"ListProxyServerIP": [
 		"46.23.96.36",
 		"47.43.996.316",
 		"123.543.534.3"
 	],
 	
-	"ListServerPort": [
+	"ListProxyServerPort": [
 		"10001",
 		"10001",
 		"10001"
 	],
 	
-	"ListServerWebUpdate": [
+	"ListUrlAutoUpdate": [
 		"https://raw.githubusercontent.com/RFOControls/RFO_AutoUpdater/refs/heads/main/DebugUpdate/"
 	],
-	"ListMultiLanguage": [
+	
+	"ListActualLanguage": [
 		"Russia",
 		"English"
 	],
-	"ListMultiLanguageDefault": [
+	
+	"ListDefaultLanguage": [
 		"Russia"
 	],
 	
 	
-	"AutoUpdateStartEnabled": true,
+	"AutoUpdateEnabled": true,
 	"CheckFileStableEnabled": true,
 	"SendLogFileEnabled": true,
 	"RepairFileEnabled": true,
 	"MultiLanguageEnabled": true,
-	"CopyRightPoweredEnabled": true
+	"CopyrightPoweredEnabled": true,
+	"NewsEnabled": true
 }
