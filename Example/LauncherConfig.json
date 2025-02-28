@@ -29,6 +29,10 @@
 	"ListDefaultLanguage": [
 		"Russia"
 	],
+
+	"ListUrlNews": [
+		"https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/Example/NewsConfig.json"
+	],
 	
 	
 	"AutoUpdateEnabled": true,
