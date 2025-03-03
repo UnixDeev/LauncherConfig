@@ -53,7 +53,7 @@
 			"ButtonURL": "https://example.ru"
 		},
 		{
-			"ButtonEnabled": true,
+			"ButtonEnabled": false,
 			"ButtonName": 
 			{
 				"Russia": "Button",
@@ -73,7 +73,7 @@
 			"ButtonEnabled": true,
 			"ButtonName": 
 			{
-				"Russia": "Button",
+				"Russia": "Button 3",
 			        "English": "Кнопка",
 			        "Brazil": "Bouton",
 				"China": "Button",
@@ -95,47 +95,47 @@
 			"ButtonNameAllLinkURL": "https://example.ru"
 		},
 		{
-			"ButtonEnabled": true,
+			"ButtonEnabled": false,
 			"Name": "Одноклассники",
 			"ButtonNameAllLinkURL": "https://example.ru"
 		},
 		{
-			"ButtonEnabled": true,
+			"ButtonEnabled": false,
 			"Name": "YouTube",
 			"ButtonNameAllLinkURL": "https://example.ru"
 		},
 		{
-			"ButtonEnabled": true,
+			"ButtonEnabled": false,
 			"Name": "Instagram",
 			"ButtonNameAllLinkURL": "https://example.ru"
 		},
 		{
-			"ButtonEnabled": true,
+			"ButtonEnabled": false,
 			"Name": "TikTok",
 			"ButtonNameAllLinkURL": "https://example.ru"
 		},
 		{
-			"ButtonEnabled": true,
+			"ButtonEnabled": false,
 			"Name": "Twitter",
 			"ButtonNameAllLinkURL": "https://example.ru"
 		},
 		{
-			"ButtonEnabled": true,
+			"ButtonEnabled": false,
 			"Name": "Reddit",
 			"ButtonNameAllLinkURL": "https://example.ru"
 		},
 		{
-			"ButtonEnabled": true,
+			"ButtonEnabled": false,
 			"Name": "Pinterest",
 			"ButtonNameAllLinkURL": "https://example.ru"
 		},
 		{
-			"ButtonEnabled": true,
+			"ButtonEnabled": false,
 			"Name": "Whatsapp",
 			"ButtonNameAllLinkURL": "https://example.ru"
 		},
 		{
-			"ButtonEnabled": true,
+			"ButtonEnabled": false,
 			"Name": "Linkedin",
 			"ButtonNameAllLinkURL": "https://example.ru"
 		},
@@ -145,7 +145,7 @@
 			"ButtonNameAllLinkURL": "https://example.ru"
 		},
 		{
-			"ButtonEnabled": true,
+			"ButtonEnabled": false,
 			"Name": "Telegram",
 			"ButtonNameAllLinkURL": "https://example.ru"
 		},
