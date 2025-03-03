@@ -36,7 +36,7 @@
 	
 	"ButtonAllLink": [
 		{
-			"ButtonEnabled" true,
+			"ButtonEnabled": true,
 			"ButtonName": 
 			{
 				"Russia": "Button",
@@ -53,7 +53,7 @@
 			"ButtonURL": "https://example.ru"
 		},
 		{
-			"ButtonEnabled" true,
+			"ButtonEnabled": true,
 			"ButtonName": 
 			{
 				"Russia": "Button",
@@ -70,7 +70,7 @@
 			"ButtonURL": "https://example.ru"
 		},
 		{
-			"ButtonEnabled" true,
+			"ButtonEnabled": true,
 			"ButtonName": 
 			{
 				"Russia": "Button",
