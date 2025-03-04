@@ -20,11 +20,17 @@
     ],
     "buttons": [
       {
-        "text": "Подробнее",
+        "text": {
+          "Russia": "Подробнее",
+          "English": "Anymore"
+        },
         "url": "https://example.com/full-article"
       },
       {
-        "text": "Поделиться",
+        "text": {
+          "Russia": "Поделиться",
+          "English": "Share"
+        },
         "url": "https://example.com/share"
       }
     ],
@@ -42,12 +48,7 @@
       "English": "Main text news. This content info event, detail and advance information"
     },
     "images": [],
-    "buttons": [
-      {
-        "text": "Читать дальше",
-        "url": "https://example.com/article-2"
-      }
-    ],
+    "buttons": [],
     "published_at": "2025-02-28T12:00:00"
   }
 ]
