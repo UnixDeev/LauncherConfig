@@ -90,16 +90,6 @@
 	
 	"ButtonSocialLink": [
 		{
-			"ButtonEnabled": true,
-			"Name": "Facebook",
-			"ButtonNameAllLinkURL": "https://example.ru"
-		},
-		{
-			"ButtonEnabled": false,
-			"Name": "Одноклассники",
-			"ButtonNameAllLinkURL": "https://example.ru"
-		},
-		{
 			"ButtonEnabled": false,
 			"Name": "YouTube",
 			"ButtonNameAllLinkURL": "https://example.ru"
@@ -112,31 +102,6 @@
 		{
 			"ButtonEnabled": false,
 			"Name": "TikTok",
-			"ButtonNameAllLinkURL": "https://example.ru"
-		},
-		{
-			"ButtonEnabled": false,
-			"Name": "Twitter",
-			"ButtonNameAllLinkURL": "https://example.ru"
-		},
-		{
-			"ButtonEnabled": false,
-			"Name": "Reddit",
-			"ButtonNameAllLinkURL": "https://example.ru"
-		},
-		{
-			"ButtonEnabled": false,
-			"Name": "Pinterest",
-			"ButtonNameAllLinkURL": "https://example.ru"
-		},
-		{
-			"ButtonEnabled": false,
-			"Name": "Whatsapp",
-			"ButtonNameAllLinkURL": "https://example.ru"
-		},
-		{
-			"ButtonEnabled": false,
-			"Name": "Linkedin",
 			"ButtonNameAllLinkURL": "https://example.ru"
 		},
 		{
