@@ -128,7 +128,7 @@
 	"RepairFileEnabled": true,
 	"MultiLanguageEnabled": true,
 	"CopyrightPoweredEnabled": true,
-	"NewsEnabled": false,
+	"NewsEnabled": true,
 	"ButtonAllLinkEnabled": true,
 	"ButtonSocialLinkEnabled": true
 	
