@@ -50,7 +50,7 @@
 				"Taiwan": "Button",
 				"Vietnam": "Button"
 			},
-			"ButtonURL": "https://example.ru"
+			"ButtonURL": "https://example.com"
 		},
 		{
 			"ButtonEnabled": false,
@@ -67,7 +67,7 @@
 				"Taiwan": "Button",
 				"Vietnam": "Button"
 			},
-			"ButtonURL": "https://example.ru"
+			"ButtonURL": "https://example.com"
 		},
 		{
 			"ButtonEnabled": true,
@@ -84,7 +84,7 @@
 				"Taiwan": "Button",
 				"Vietnam": "Button"
 			},
-			"ButtonURL": "https://example.ru"
+			"ButtonURL": "https://example.com"
 		}
 	],
 	
@@ -92,32 +92,32 @@
 		{
 			"ButtonEnabled": false,
 			"Name": "YouTube",
-			"ButtonNameAllLinkURL": "https://example.ru"
+			"ButtonNameAllLinkURL": "https://example.com"
 		},
 		{
 			"ButtonEnabled": false,
 			"Name": "Instagram",
-			"ButtonNameAllLinkURL": "https://example.ru"
+			"ButtonNameAllLinkURL": "https://example.com"
 		},
 		{
 			"ButtonEnabled": false,
 			"Name": "TikTok",
-			"ButtonNameAllLinkURL": "https://example.ru"
+			"ButtonNameAllLinkURL": "https://example.com"
 		},
 		{
 			"ButtonEnabled": true,
 			"Name": "ВКонтакте",
-			"ButtonNameAllLinkURL": "https://example.ru"
+			"ButtonNameAllLinkURL": "https://example.com"
 		},
 		{
 			"ButtonEnabled": false,
 			"Name": "Telegram",
-			"ButtonNameAllLinkURL": "https://example.ru"
+			"ButtonNameAllLinkURL": "https://example.com"
 		},
 		{
 			"ButtonEnabled": true,
 			"Name": "Discord",
-			"ButtonNameAllLinkURL": "https://example.ru"
+			"ButtonNameAllLinkURL": "https://example.com"
 		}
 	],
 	
