@@ -39,8 +39,8 @@
 			"ButtonEnabled": true,
 			"ButtonName": 
 			{
-				"Russia": "Button",
-				"English": "Кнопка",
+				"Russia": "Имя 1",
+				"English": "Name 1",
 				"Brazil": "Bouton",
 				"China": "Button",
 				"Indonesia": "Button",
@@ -50,7 +50,7 @@
 				"Taiwan": "Button",
 				"Vietnam": "Button"
 			},
-			"ButtonURL": "https://example.com"
+			"ButtonURL": "https://example.com/1"
 		},
 		{
 			"ButtonEnabled": false,
@@ -73,8 +73,8 @@
 			"ButtonEnabled": true,
 			"ButtonName": 
 			{
-				"Russia": "Button 3",
-				"English": "Кнопка",
+				"Russia": "Имя 2",
+				"English": "Name 2",
 				"Brazil": "Bouton",
 				"China": "Button",
 				"Indonesia": "Button",
@@ -84,7 +84,7 @@
 				"Taiwan": "Button",
 				"Vietnam": "Button"
 			},
-			"ButtonURL": "https://example.com"
+			"ButtonURL": "https://example.com/2"
 		}
 	],
 	
