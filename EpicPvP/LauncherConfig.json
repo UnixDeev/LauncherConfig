@@ -12,7 +12,7 @@
 	],
 	
 	"ListUrlAutoUpdate": [
-		"https://raw.githubusercontent.com/RFOControls/RFO_AutoUpdater/refs/heads/main/DebugUpdate/"
+		"https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/EpicPvP/Update/"
 	],
 	
 	"ListActualLanguage": [
@@ -24,7 +24,7 @@
 	],
 
 	"ListUrlNews": [
-		"https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/Example/NewsConfig.json"
+		"https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/EpicPvP/LauncherConfig.json"
 	],
 	
 	"ButtonAllLink": [
