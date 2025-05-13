@@ -1,13 +1,16 @@
 {
 	"ListProxyServerName": [
-		"Основной сервер"
+		"Основной сервер",
+		"Запасной сервер"
 	],
 	
 	"ListProxyServerIP": [
-		"1d8909b1ec2377a8e0ba8a85f9068d4e"
+		"1d8909b1ec2377a8e0ba8a85f9068d4e",
+		"89d12116c8429c4d9b27c10e676b2e6c"
 	],
 	
 	"ListProxyServerPort": [
+		"e5dc79cca5a29b98b8be3dc83a211e88",
 		"e5dc79cca5a29b98b8be3dc83a211e88"
 	],
 	
