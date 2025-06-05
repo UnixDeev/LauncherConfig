@@ -1,0 +1,128 @@
+{
+	"ListProxyServerName": [
+		"Основной сервер",
+	],
+	
+	"ListProxyServerIP": [
+		"1d8909b1ec2377a8e0ba8a85f9068d4e"
+	],
+	
+	"ListProxyServerPort": [
+		"a8905d63327bddd1ed2361c891715b24"
+	],
+	
+	"ListUrlAutoUpdate": [
+		"https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/PlanerWars/Update/"
+	],
+	
+	"ListActualLanguage": [
+		"Russia"
+	],
+	
+	"ListDefaultLanguage": [
+		"Russia"
+	],
+
+	"ListUrlNews": [
+		"https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/Example/NewsConfig.json"
+	],
+	
+	"ButtonAllLink": [
+		{
+			"ButtonEnabled": false,
+			"ButtonName": 
+			{
+				"Russia": "Имя 111",
+				"English": "Name 111",
+				"Brazil": "Bouton",
+				"China": "Button",
+				"Indonesia": "Button",
+				"Japan": "Button",
+				"Korea": "Button",
+				"Philippines": "Button",
+				"Taiwan": "Button",
+				"Vietnam": "Button"
+			},
+			"ButtonURL": "https://example.com/1"
+		},
+		{
+			"ButtonEnabled": false,
+			"ButtonName": 
+			{
+				"Russia": "Button",
+				"English": "Кнопка",
+				"Brazil": "Bouton",
+				"China": "Button",
+				"Indonesia": "Button",
+				"Japan": "Button",
+				"Korea": "Button",
+				"Philippines": "Button",
+				"Taiwan": "Button",
+				"Vietnam": "Button"
+			},
+			"ButtonURL": "https://example.com"
+		},
+		{
+			"ButtonEnabled": false,
+			"ButtonName": 
+			{
+				"Russia": "Имя 2",
+				"English": "Name 2",
+				"Brazil": "Bouton",
+				"China": "Button",
+				"Indonesia": "Button",
+				"Japan": "Button",
+				"Korea": "Button",
+				"Philippines": "Button",
+				"Taiwan": "Button",
+				"Vietnam": "Button"
+			},
+			"ButtonURL": "https://example.com/2"
+		}
+	],
+	
+	"ButtonSocialLink": [
+		{
+			"ButtonEnabled": false,
+			"Name": "YouTube",
+			"ButtonNameAllLinkURL": "https://example.com"
+		},
+		{
+			"ButtonEnabled": false,
+			"Name": "Instagram",
+			"ButtonNameAllLinkURL": "https://example.com"
+		},
+		{
+			"ButtonEnabled": false,
+			"Name": "TikTok",
+			"ButtonNameAllLinkURL": "https://example.com"
+		},
+		{
+			"ButtonEnabled": false,
+			"Name": "ВКонтакте",
+			"ButtonNameAllLinkURL": "https://example.com"
+		},
+		{
+			"ButtonEnabled": false,
+			"Name": "Telegram",
+			"ButtonNameAllLinkURL": "https://example.com"
+		},
+		{
+			"ButtonEnabled": false,
+			"Name": "Discord",
+			"ButtonNameAllLinkURL": "https://example.com"
+		}
+	],
+	
+	
+	"AutoUpdateEnabled": false,
+	"CheckFileStableEnabled": false,
+	"SendLogFileEnabled": false,
+	"RepairFileEnabled": false,
+	"MultiLanguageEnabled": false,
+	"CopyrightPoweredEnabled": true,
+	"NewsEnabled": false,
+	"ButtonAllLinkEnabled": false,
+	"ButtonSocialLinkEnabled": false
+	
+}
