@@ -1,17 +1,14 @@
 {
 	"ListProxyServerName": [
-		"[RU1] Основной сервер",
-		"[RU2] Запасной сервер"
+		"[RU1] Основной сервер"
 	],
 	
 	"ListProxyServerIP": [
-		"89d12116c8429c4d9b27c10e676b2e6c",
-		"1d8909b1ec2377a8e0ba8a85f9068d4e"
+		"1e7cf381754848f89a2ca0782ab055da"
 	],
 	
 	"ListProxyServerPort": [
-		"e5dc79cca5a29b98b8be3dc83a211e88",
-		"e5dc79cca5a29b98b8be3dc83a211e88"
+		"a8905d63327bddd1ed2361c891715b24"
 	],
 	
 	"ListUrlAutoUpdate": [
