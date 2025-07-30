@@ -17627,9 +17627,6 @@
 0xeef10007   \\pulse_charger\dam\pulse_charger_d_mag_06.spt
 
 
-
-Add those example lines to your end of Client/Effect/EffectEntityList.spt file.
-
 =================================================================================
 ;Pulse Charger effect
 =================================================================================
