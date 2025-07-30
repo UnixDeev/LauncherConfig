@@ -17592,11 +17592,6 @@
 ------------------------------------------------
 0X50F10CB0		\\weapon\d_act\dam\COM_WEAPON_BLOW_ATTACK_00.spt  ;기본때리기타격
 
-
-
-
-
-
 =================================================================================
 ;Pulse Charger effect
 =================================================================================
@@ -17667,3 +17662,6 @@ Add those example lines to your end of Client/Effect/EffectEntityList.spt file.
 8000154   .\effect\pulse_charger\dam\src\light_dam_02_04.spt
 8000155   .\effect\pulse_charger\dam\src\light_dam_02_05.spt
 8000156   .\effect\pulse_charger\dam\src\light_dam_02_06.spt
+
+
+
