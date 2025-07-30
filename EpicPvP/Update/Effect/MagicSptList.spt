@@ -17596,3 +17596,74 @@
 
 
 
+
+=================================================================================
+;Pulse Charger effect
+=================================================================================
+;Self aura
+---------------------------------------------------------------------------------
+0xeeff0000   \\pulse_charger\cast\pulse_charger_c_mag.spt
+
+---------------------------------------------------------------------------------
+;Enemy hit effect
+---------------------------------------------------------------------------------
+;no upgrade
+0xeef10000   \\pulse_charger\dam\pulse_charger_d_mag_01.spt
+
+;+1 upgrade
+0xeef10001   \\pulse_charger\dam\pulse_charger_d_mag_01.spt
+
+;+2 upgrade
+0xeef10002   \\pulse_charger\dam\pulse_charger_d_mag_02.spt
+
+;+3 upgrade
+0xeef10003   \\pulse_charger\dam\pulse_charger_d_mag_03.spt
+
+;+4 upgrade
+0xeef10004   \\pulse_charger\dam\pulse_charger_d_mag_04.spt
+
+;+5 upgrade
+0xeef10005   \\pulse_charger\dam\pulse_charger_d_mag_05.spt
+
+;+6 upgrade
+0xeef10006   \\pulse_charger\dam\pulse_charger_d_mag_06.spt
+
+;+7 upgrade
+0xeef10007   \\pulse_charger\dam\pulse_charger_d_mag_06.spt
+
+
+
+Add those example lines to your end of Client/Effect/EffectEntityList.spt file.
+
+=================================================================================
+;Pulse Charger effect
+=================================================================================
+8000121   .\effect\pulse_charger\cast\src\light_cast_02.spt
+8000122   .\effect\pulse_charger\cast\src\lightup_cast_01.spt
+8000123   .\effect\pulse_charger\cast\src\be_par02.spt
+8000124   .\effect\pulse_charger\cast\src\lv2_p.spt
+8000125   .\effect\pulse_charger\cast\src\rezen02\rezen02.r3e
+8000126   .\effect\pulse_charger\cast\src\logout2_be_p.spt
+8000127   .\effect\pulse_charger\cast\src\aaa_p.spt
+8000128   .\effect\pulse_charger\cast\src\bbbb_p.spt
+8000129   .\effect\pulse_charger\cast\src\fpw_plus.spt  
+8000130   .\Effect\pulse_charger\cast\src\52691.spt
+8000131   .\effect\pulse_charger\cast\src\dl\dl.r3e
+8000132   .\effect\pulse_charger\cast\src\rezen03\rezen03.r3e
+8000133   .\effect\pulse_charger\cast\src\58033.spt
+
+8000141   .\effect\pulse_charger\dam\src\block1.spt
+8000142   .\Effect\pulse_charger\dam\src\aurora.spt
+8000143   .\Effect\pulse_charger\dam\src\glow_bg.spt
+8000144   .\Effect\pulse_charger\dam\src\spkl.spt
+8000145   .\Effect\pulse_charger\dam\src\extend.spt
+8000146   .\Effect\pulse_charger\dam\src\sp.spt
+8000148   .\Effect\pulse_charger\dam\src\extend_light.spt
+8000149   .\Effect\pulse_charger\dam\src\light_extend_01\light_extend_01.R3E
+8000150   .\Effect\pulse_charger\dam\src\light_f.spt
+8000151   .\effect\pulse_charger\dam\src\light_dam_02_01.spt
+8000152   .\effect\pulse_charger\dam\src\light_dam_02_02.spt
+8000153   .\effect\pulse_charger\dam\src\light_dam_02_03.spt
+8000154   .\effect\pulse_charger\dam\src\light_dam_02_04.spt
+8000155   .\effect\pulse_charger\dam\src\light_dam_02_05.spt
+8000156   .\effect\pulse_charger\dam\src\light_dam_02_06.spt
