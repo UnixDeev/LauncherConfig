@@ -2,13 +2,13 @@
 	"ListProxyServerName": [
 		"[RU1] Server Proxy",
 		"[RU2] Server Proxy",
-		"[FL] Server Proxy"
+		"[PL] Server Proxy"
 	],
 	
 	"ListProxyServerIP": [
 		"0ac30136a9c6e6860fb75cc5a8ca19f4",
 		"1e7cf381754848f89a2ca0782ab055da",
-		"8842275d1ec04ceed5c38fae46d160d5"
+		"391ed156cbb3244c0f52f758ea7b9a03"
 	],
 	
 	"ListProxyServerPort": [
