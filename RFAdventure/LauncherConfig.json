@@ -1,13 +1,16 @@
 {
 	"ListProxyServerName": [
-		"Сервер #RU"
+		"Сервер #RU 1",
+		"Сервер #RU 2"
 	],
 	
 	"ListProxyServerIP": [
+		"7d838b8a38beefd601ce361927dd8f92",
 		"1b7c270746594ccec6e7a00c49089d05"
 	],
 	
 	"ListProxyServerPort": [
+		"982e22f1e87966f22372932ef4f2dff8",
 		"982e22f1e87966f22372932ef4f2dff8"
 	],
 	
