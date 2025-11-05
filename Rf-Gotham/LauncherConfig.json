@@ -1,10 +1,10 @@
 {
 	"ListProxyServerName": [
-		"MAIN PROXY"
+		"RF-Gotham"
 	],
 	
 	"ListProxyServerIP": [
-		"1d8909b1ec2377a8e0ba8a85f9068d4e"
+		"d0556b55d099eec672939db03ce94f64"
 	],
 	
 	"ListProxyServerPort": [
@@ -12,7 +12,7 @@
 	],
 	
 	"ListUrlAutoUpdate": [
-		"https://raw.githubusercontent.com/RFOControls/RFO_AutoUpdater/refs/heads/main/DebugUpdate/"
+		"https://rf-gotham.ru/update/"
 	],
 	
 	"ListActualLanguage": [
