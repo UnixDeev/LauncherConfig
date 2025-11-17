@@ -1,15 +1,18 @@
 {
     "ListProxyServerName": [
-        "MAIN PROXY TEST"
+        "MAIN PROXY TEST",
+        "MAIN PROXY TEST 2"
     ],
     "ListProxyServerIP": [
+        "1e7cf381754848f89a2ca0782ab055da",
         "1e7cf381754848f89a2ca0782ab055da"
     ],
     "ListProxyServerPort": [
+        "a8905d63327bddd1ed2361c891715b24",
         "a8905d63327bddd1ed2361c891715b24"
     ],
     "ListUrlAutoUpdate": [
-        "https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/Example/NewsConfig.json"
+        "https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/Example/NewsConfig.json1"
     ],
     "ListActualLanguage": [
         "Russia"
