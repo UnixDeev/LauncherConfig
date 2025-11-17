@@ -33,34 +33,6 @@
                 "url": "https://example.com/share"
             }
         ],
-        "published_at": "2025-11-17T17:56:33"
-    },
-    {
-        "id": 2,
-        "title": {
-            "Russia": "Вторая новость",
-            "English": "Two news"
-        },
-        "text": {
-            "Russia": "Основной текст новости. Здесь содержится описание события, детали и дополнительная информация.",
-            "English": "Main text news. This content info event, detail and advance information"
-        },
-        "images": [],
-        "buttons": [],
-        "published_at": "2025-11-17T17:56:33"
-    },
-    {
-        "id": 3,
-        "title": {
-            "Russia": "Третья новость",
-            "English": "Three news"
-        },
-        "text": {
-            "Russia": "Основной текст новости. Здесь содержится описание события, детали и дополнительная информация.",
-            "English": "Main text news. This content info event, detail and advance information"
-        },
-        "images": [],
-        "buttons": [],
-        "published_at": "2025-11-17T17:56:33"
+        "published_at": "2025-11-17T17:57:20"
     }
 ]
