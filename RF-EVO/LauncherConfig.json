@@ -110,7 +110,7 @@
     "SendLogFileEnabled": true,
     "RepairFileEnabled": true,
     "MultiLanguageEnabled": true,
-    "CopyrightPoweredEnabled": true,
+    "CopyrightPoweredEnabled": false,
     "NewsEnabled": true,
     "ButtonAllLinkEnabled": true,
     "ButtonSocialLinkEnabled": true
