@@ -1,68 +1,66 @@
 [
-  {
-    "id": 1,
-    "title": {
-      "Russia": "Заголовок новости",
-      "English": "Title News"
-    },
-    "text": {
-      "Russia": "Основной текст новости. Здесь содержится описание события, детали и дополнительная информация.",
-      "English": "Main text news. This content info event, detail and advance information"
-    },
-    
-    "images": [
-      {
-        "url": "https://naked-science.ru/wp-content/uploads/2016/04/article_albert-einstein-designer-2573099-1024x632.jpg"
-      },
-      {
-        "url": "https://avatars.mds.yandex.net/i?id=e8adebcbcb8475b80d2a97577f936201_l-5234162-images-thumbs&n=13"
-      }
-    ],
-    "buttons": [
-      {
-        "text": {
-          "Russia": "Подробнее",
-          "English": "Anymore"
+    {
+        "id": 1,
+        "title": {
+            "Russia": "Заголовок новости",
+            "English": "Title News"
         },
-        "url": "https://example.com/full-article"
-      },
-      {
         "text": {
-          "Russia": "Поделиться",
-          "English": "Share"
+            "Russia": "Основной текст новости. Здесь содержится описание события, детали и дополнительная информация.",
+            "English": "Main text news. This content info event, detail and advance information"
         },
-        "url": "https://example.com/share"
-      }
-    ],
-    "published_at": "2025-02-28T12:00:00"
-  },
-
-  {
-    "id": 2,
-    "title": {
-      "Russia": "Вторая новость",
-      "English": "Two news"
+        "images": [
+            {
+                "url": "https://naked-science.ru/wp-content/uploads/2016/04/article_albert-einstein-designer-2573099-1024x632.jpg"
+            },
+            {
+                "url": "https://avatars.mds.yandex.net/i?id=e8adebcbcb8475b80d2a97577f936201_l-5234162-images-thumbs&n=13"
+            }
+        ],
+        "buttons": [
+            {
+                "text": {
+                    "Russia": "Подробнее",
+                    "English": "Anymore"
+                },
+                "url": "https://example.com/full-article"
+            },
+            {
+                "text": {
+                    "Russia": "Поделиться",
+                    "English": "Share"
+                },
+                "url": "https://example.com/share"
+            }
+        ],
+        "published_at": "2025-11-17T17:56:33"
     },
-    "text":{
-      "Russia": "Основной текст новости. Здесь содержится описание события, детали и дополнительная информация.",
-      "English": "Main text news. This content info event, detail and advance information"
+    {
+        "id": 2,
+        "title": {
+            "Russia": "Вторая новость",
+            "English": "Two news"
+        },
+        "text": {
+            "Russia": "Основной текст новости. Здесь содержится описание события, детали и дополнительная информация.",
+            "English": "Main text news. This content info event, detail and advance information"
+        },
+        "images": [],
+        "buttons": [],
+        "published_at": "2025-11-17T17:56:33"
     },
-    "images": [],
-    "buttons": [],
-    "published_at": "2025-02-28T12:00:00"
-  },
-  {
-    "id": 3,
-    "title": {
-      "Russia": "Третья новость",
-      "English": "Three news"
-    },
-    "text":{
-      "Russia": "Основной текст новости. Здесь содержится описание события, детали и дополнительная информация.",
-      "English": "Main text news. This content info event, detail and advance information"
-    },
-    "images": [],
-    "buttons": [],
-    "published_at": "2025-02-28T12:00:00"
-  }
+    {
+        "id": 3,
+        "title": {
+            "Russia": "Третья новость",
+            "English": "Three news"
+        },
+        "text": {
+            "Russia": "Основной текст новости. Здесь содержится описание события, детали и дополнительная информация.",
+            "English": "Main text news. This content info event, detail and advance information"
+        },
+        "images": [],
+        "buttons": [],
+        "published_at": "2025-11-17T17:56:33"
+    }
 ]
