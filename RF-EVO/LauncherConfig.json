@@ -1,6 +1,6 @@
 {
 	"ListProxyServerName": [
-		"Основной сервер",
+		"MAIN PROXY TEST"
 	],
 	
 	"ListProxyServerIP": [
@@ -8,15 +8,16 @@
 	],
 	
 	"ListProxyServerPort": [
-		"62ab4fbae905a95645fa971ae4fc7537"
+		"a8905d63327bddd1ed2361c891715b24"
 	],
 	
 	"ListUrlAutoUpdate": [
-		"https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/PlayGamesBexar/Update/"
+		"https://raw.githubusercontent.com/RFOControls/RFO_AutoUpdater/refs/heads/main/DebugUpdate/"
 	],
 	
 	"ListActualLanguage": [
-		"Russia"
+		"Russia",
+		"English"
 	],
 	
 	"ListDefaultLanguage": [
@@ -24,12 +25,12 @@
 	],
 
 	"ListUrlNews": [
-		"https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/PlayGamesBexar/NewsConfig.json"
+		"https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/Example/NewsConfig.json"
 	],
 	
 	"ButtonAllLink": [
 		{
-			"ButtonEnabled": false,
+			"ButtonEnabled": true,
 			"ButtonName": 
 			{
 				"Russia": "Имя 111",
@@ -63,7 +64,7 @@
 			"ButtonURL": "https://example.com"
 		},
 		{
-			"ButtonEnabled": false,
+			"ButtonEnabled": true,
 			"ButtonName": 
 			{
 				"Russia": "Имя 2",
@@ -98,7 +99,7 @@
 			"ButtonNameAllLinkURL": "https://example.com"
 		},
 		{
-			"ButtonEnabled": false,
+			"ButtonEnabled": true,
 			"Name": "ВКонтакте",
 			"ButtonNameAllLinkURL": "https://example.com"
 		},
@@ -108,21 +109,21 @@
 			"ButtonNameAllLinkURL": "https://example.com"
 		},
 		{
-			"ButtonEnabled": false,
+			"ButtonEnabled": true,
 			"Name": "Discord",
 			"ButtonNameAllLinkURL": "https://example.com"
 		}
 	],
 	
 	
-	"AutoUpdateEnabled": false,
-	"CheckFileStableEnabled": false,
-	"SendLogFileEnabled": false,
-	"RepairFileEnabled": false,
-	"MultiLanguageEnabled": false,
+	"AutoUpdateEnabled": true,
+	"CheckFileStableEnabled": true,
+	"SendLogFileEnabled": true,
+	"RepairFileEnabled": true,
+	"MultiLanguageEnabled": true,
 	"CopyrightPoweredEnabled": true,
-	"NewsEnabled": false,
-	"ButtonAllLinkEnabled": false,
-	"ButtonSocialLinkEnabled": false
+	"NewsEnabled": true,
+	"ButtonAllLinkEnabled": true,
+	"ButtonSocialLinkEnabled": true
 	
 }
