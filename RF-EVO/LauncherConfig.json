@@ -105,7 +105,7 @@
             "ButtonNameAllLinkURL": "https://example.com"
         }
     ],
-    "AutoUpdateEnabled": true,
+    "AutoUpdateEnabled": false,
     "CheckFileStableEnabled": true,
     "SendLogFileEnabled": true,
     "RepairFileEnabled": true,
