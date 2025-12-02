@@ -1,129 +1,117 @@
 {
-	"ListProxyServerName": [
-		"MAIN PROXY"
-	],
-	
-	"ListProxyServerIP": [
-		"1e7cf381754848f89a2ca0782ab055da"
-	],
-	
-	"ListProxyServerPort": [
-		"a8905d63327bddd1ed2361c891715b24"
-	],
-	
-	"ListUrlAutoUpdate": [
-		"https://raw.githubusercontent.com/RFOControls/RFO_AutoUpdater/refs/heads/main/DebugUpdate/"
-	],
-	
-	"ListActualLanguage": [
-		"Russia",
-		"English"
-	],
-	
-	"ListDefaultLanguage": [
-		"Russia"
-	],
-
-	"ListUrlNews": [
-		"https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/Example/NewsConfig.json"
-	],
-	
-	"ButtonAllLink": [
-		{
-			"ButtonEnabled": true,
-			"ButtonName": 
-			{
-				"Russia": "Имя 111",
-				"English": "Name 111",
-				"Brazil": "Bouton",
-				"China": "Button",
-				"Indonesia": "Button",
-				"Japan": "Button",
-				"Korea": "Button",
-				"Philippines": "Button",
-				"Taiwan": "Button",
-				"Vietnam": "Button"
-			},
-			"ButtonURL": "https://example.com/1"
-		},
-		{
-			"ButtonEnabled": false,
-			"ButtonName": 
-			{
-				"Russia": "Button",
-				"English": "Кнопка",
-				"Brazil": "Bouton",
-				"China": "Button",
-				"Indonesia": "Button",
-				"Japan": "Button",
-				"Korea": "Button",
-				"Philippines": "Button",
-				"Taiwan": "Button",
-				"Vietnam": "Button"
-			},
-			"ButtonURL": "https://example.com"
-		},
-		{
-			"ButtonEnabled": true,
-			"ButtonName": 
-			{
-				"Russia": "Имя 2",
-				"English": "Name 2",
-				"Brazil": "Bouton",
-				"China": "Button",
-				"Indonesia": "Button",
-				"Japan": "Button",
-				"Korea": "Button",
-				"Philippines": "Button",
-				"Taiwan": "Button",
-				"Vietnam": "Button"
-			},
-			"ButtonURL": "https://example.com/2"
-		}
-	],
-	
-	"ButtonSocialLink": [
-		{
-			"ButtonEnabled": false,
-			"Name": "YouTube",
-			"ButtonNameAllLinkURL": "https://example.com"
-		},
-		{
-			"ButtonEnabled": false,
-			"Name": "Instagram",
-			"ButtonNameAllLinkURL": "https://example.com"
-		},
-		{
-			"ButtonEnabled": false,
-			"Name": "TikTok",
-			"ButtonNameAllLinkURL": "https://example.com"
-		},
-		{
-			"ButtonEnabled": true,
-			"Name": "ВКонтакте",
-			"ButtonNameAllLinkURL": "https://example.com"
-		},
-		{
-			"ButtonEnabled": false,
-			"Name": "Telegram",
-			"ButtonNameAllLinkURL": "https://example.com"
-		},
-		{
-			"ButtonEnabled": true,
-			"Name": "Discord",
-			"ButtonNameAllLinkURL": "https://example.com"
-		}
-	],
-	
-	
-	"AutoUpdateEnabled": true,
-	"CheckFileStableEnabled": true,
-	"SendLogFileEnabled": true,
-	"RepairFileEnabled": true,
-	"MultiLanguageEnabled": true,
-	"CopyrightPoweredEnabled": true,
-	"NewsEnabled": true,
-	"ButtonAllLinkEnabled": true,
-	"ButtonSocialLinkEnabled": true
-	
+    "ListProxyServerName": [
+        "MAIN PROXY TEST",
+        "MAIN PROXY TEST 2"
+    ],
+    "ListProxyServerIP": [
+        "1e7cf381754848f89a2ca0782ab055da",
+        "1e7cf381754848f89a2ca0782ab055da"
+    ],
+    "ListProxyServerPort": [
+        "a8905d63327bddd1ed2361c891715b24",
+        "a8905d63327bddd1ed2361c891715b24"
+    ],
+    "ListUrlAutoUpdate": [
+        "https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/Example/NewsConfig.json1"
+    ],
+    "ListActualLanguage": [
+        "Russia"
+    ],
+    "ListDefaultLanguage": [
+        "Russia"
+    ],
+    "ListUrlNews": [
+        "https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/Example/NewsConfig.json"
+    ],
+    "ButtonAllLink": [
+        {
+            "ButtonEnabled": true,
+            "ButtonName": {
+                "Russia": "Имя 111",
+                "English": "Name 111",
+                "Brazil": "Bouton",
+                "China": "Button",
+                "Indonesia": "Button",
+                "Japan": "Button",
+                "Korea": "Button",
+                "Philippines": "Button",
+                "Taiwan": "Button",
+                "Vietnam": "Button"
+            },
+            "ButtonURL": "https://example.com/12"
+        },
+        {
+            "ButtonEnabled": false,
+            "ButtonName": {
+                "Russia": "Button",
+                "English": "Кнопка",
+                "Brazil": "Bouton",
+                "China": "Button",
+                "Indonesia": "Button",
+                "Japan": "Button",
+                "Korea": "Button",
+                "Philippines": "Button",
+                "Taiwan": "Button",
+                "Vietnam": "Button"
+            },
+            "ButtonURL": "https://example.com3"
+        },
+        {
+            "ButtonEnabled": true,
+            "ButtonName": {
+                "Russia": "Имя 2",
+                "English": "Name 2",
+                "Brazil": "Bouton",
+                "China": "Button",
+                "Indonesia": "Button",
+                "Japan": "Button",
+                "Korea": "Button",
+                "Philippines": "Button",
+                "Taiwan": "Button",
+                "Vietnam": "Button"
+            },
+            "ButtonURL": "https://example.com/4"
+        }
+    ],
+    "ButtonSocialLink": [
+        {
+            "ButtonEnabled": false,
+            "Name": "YouTube",
+            "ButtonNameAllLinkURL": "https://example.com"
+        },
+        {
+            "ButtonEnabled": false,
+            "Name": "Instagram",
+            "ButtonNameAllLinkURL": "https://example.com"
+        },
+        {
+            "ButtonEnabled": false,
+            "Name": "TikTok",
+            "ButtonNameAllLinkURL": "https://example.com"
+        },
+        {
+            "ButtonEnabled": true,
+            "Name": "ВКонтакте",
+            "ButtonNameAllLinkURL": "https://example.com"
+        },
+        {
+            "ButtonEnabled": false,
+            "Name": "Telegram",
+            "ButtonNameAllLinkURL": "https://example.com"
+        },
+        {
+            "ButtonEnabled": true,
+            "Name": "Discord",
+            "ButtonNameAllLinkURL": "https://example.com"
+        }
+    ],
+    "AutoUpdateEnabled": true,
+    "CheckFileStableEnabled": true,
+    "SendLogFileEnabled": true,
+    "RepairFileEnabled": true,
+    "MultiLanguageEnabled": true,
+    "CopyrightPoweredEnabled": false,
+    "NewsEnabled": true,
+    "ButtonAllLinkEnabled": true,
+    "ButtonSocialLinkEnabled": true
 }
