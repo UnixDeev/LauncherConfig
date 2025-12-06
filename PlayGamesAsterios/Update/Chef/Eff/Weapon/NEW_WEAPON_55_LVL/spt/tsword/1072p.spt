@@ -1,0 +1,40 @@
+[Particle]
+
+entity_file .\Chef\Mob02\TOYFELLFUNSHER\604p\aura.R3E
+num 25
+pos box rand(-4, 14) 0 0
+
+live_time 4
+time_speed 2
+gravity 0 2 0  
+	creat_time_epsilon 5
+	start_power rand(-0.5,0.5) rand(-0.5,0.5) rand(-0.5,0.5)
+	start_scale 1
+	start_color 50 125 175
+	start_alpha 0
+	start_zrot rand(0,360)
+	alpha_type 3
+
+z_front -0.1
+
+time 1
+	alpha 255
+	power rand(-0.5,0.5) rand(-0.5,0.5) rand(-0.5,0.5)
+	scale 1
+	color 50 125 175
+	zrot rand(0,20)
+	
+time 2.5
+	color 50 125 175
+	power rand(-0.5,0.5) rand(-0.5,0.5) rand(-0.5,0.5)
+	alpha 255
+	scale 0.5
+	zrot rand(0,20)
+	
+time 4
+	color 50 125 175
+	power rand(-0.5,0.5) rand(-0.5,0.5) rand(-0.5,0.5)
+	alpha 0
+	scale 0
+	
+end

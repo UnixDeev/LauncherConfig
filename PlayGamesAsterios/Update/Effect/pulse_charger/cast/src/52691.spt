@@ -1,0 +1,42 @@
+[Particle]
+entity_file .\Effect\pulse_charger\cast\src\52691\52691.r3e
+
+num	1
+
+;pos box rand(-1,1) -8 0
+pos box rand(-2,2) -15 0
+live_time 1.5
+time_speed 0.5
+
+gravity	0 10 0
+
+	start_scale 5
+	start_power 0 10 0
+	start_alpha 0
+	start_color 255 255 255
+	;start_time_range 0.6
+	start_yrot rand(0,360)
+
+alpha_type 3
+always_live
+
+time 0.5
+         alpha 255
+         yrot rand(5,10)
+         scale 4
+
+time 1
+         alpha rand(100,200)
+         color rand(150,255) rand(150,200) rand(50,160)
+         ;power rand(-15,15) rand(0,10) rand(-8,8)
+         yrot rand (10,40)
+         scale 3
+
+
+time 1.5
+         ;power rand(-20,20) rand(0,15) rand(-6,6)
+         yrot rand(20,50)
+         alpha 0
+         scale 0
+
+end

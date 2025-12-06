@@ -1,0 +1,54 @@
+[Particle]
+entity_file .\Chef\Mob01\ELDCRCHI\DAMGE_00\Leg_00.R3E
+num 30
+pos box rand(-2,8) rand(-1,0) 0
+
+live_time 3.5
+time_speed 1
+gravity 0 0 0
+
+	;creat_time_epsilon 5
+	start_power rand(-0.2,0.2) rand(-0.2,0.2) rand(-0.2,0.2)
+	start_color 65 105 225
+	start_scale rand(0.1,0.2)
+	start_alpha 255
+	start_yrot rand(0,360)
+	alpha_type 3
+	z_front -0.1
+	;free
+
+time 0
+	color 0 191 255
+	alpha 70
+
+
+time 0.8
+	color 135 206 235
+	zrot rand(0,20)
+	power rand(-0.5,0.5) rand(-0.5,0.5) rand(-0.5,0.5)
+	scale 0.1
+	alpha 255
+
+time 1.2
+	color 176 196 222
+	zrot rand(0,50)
+	scale rand(0.1,0.15)
+	alpha rand(0,60)
+	alpha 70
+
+time 2
+	color 175 238 238
+	scale 0.1
+	alpha 30
+
+time 2.5
+	color 70 130 180
+	scale 0.1
+	alpha 100
+
+time 3
+	color 70 130 180
+	scale 0.1
+	alpha 120
+
+end

@@ -1,0 +1,95 @@
+[MagicTrack]
+create_type 10
+attach
+
+time 0
+entity_id  8000131      ;다이나믹라이트
+dynamic_light
+pos xyz 0 0 0
+alpha 150
+color 255 255 105
+alpha_apear 0.5
+alpha_disapear 0.5
+scale 3
+
+time 0  
+entity_id  8000132      ;바닥연꽃모양올라온다
+scale 1
+alpha 200
+pos xyz 0 0 0
+
+time 0
+entity_id  8000122     ;lightup_cast_01(1_32frame)_바닥하늘기둥이팩트
+pos xyz 0 -15 0
+color 100 80 50
+scale 8
+
+time 0
+entity_id  8000123      ;바닥실선기운들올라온다
+pos xyz 0 3 0
+scale 2
+
+time 0
+entity_id  8000126      ;몸에섬광효과
+scale 2.5
+
+time 0
+entity_id  8000127      ;몸에서하늘연결해주는실선들
+scale 0.8
+
+time 0
+entity_id  8000129      ;몸감싸오르는소스
+pos xyz 0 -5 0
+scale 3
+
+time 0		
+entity_id  8000130      ;바닥오로라++++++++++++망토에쓰던오로라대체할것
+pos xyz 0 0 0
+color 255 233 255
+alpha 20
+scale 1
+
+time 0		
+entity_id  8000133      ;바닥오로라_망토에쓰던오로라
+pos xyz 0 0 0
+color 255 233 255
+alpha 50
+scale 1.5
+
+
+time 0.4
+entity_id  8000125      ;몸을감싸오르는실선
+scale 0.25
+
+time 0.7
+entity_id  8000121      ;light_cast_02(1_32frame)
+pos xyz 0 -5 0
+color 90 150 100
+scale 1.8
+
+time 0.7
+entity_id  8000128      ;바닥에회오리기운효과
+pos xyz 0 -2 0
+color 150 150 100
+
+time 0.7
+entity_id  8000128      ;바닥에회오리기운효과
+pos xyz 0 -2 0
+color 150 150 100
+
+time 0.7
+entity_id  8000124      ;사발형웨이브
+pos xyz 0 -2 0
+color 80 50 100
+scale 3
+
+time 0.85
+entity_id  8000125      ;몸을감싸오르는실선
+scale 0.25
+
+time 1.15
+entity_id  8000125      ;몸을감싸오르는실선
+scale 0.25
+
+
+end

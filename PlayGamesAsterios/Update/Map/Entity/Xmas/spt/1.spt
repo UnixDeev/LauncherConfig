@@ -1,0 +1,33 @@
+[Particle]
+
+entity_file .\map\entity\Xmas\spt\all_light\ghost2.R3E
+
+num	2
+pos box 0 0 0
+
+live_time 2.5
+time_speed 0.5
+
+gravity	0 0 0
+	start_alpha 0
+        start_time_range 1
+	start_color 255 255 255
+	start_scale 3
+        start_zrot rand(0,360)
+
+alpha_type 3
+
+
+
+time 1
+      alpha 255
+      scale 5
+
+time 2
+      alpha 255
+      scale 6
+time 2.5
+      alpha 0
+      scale 10
+
+end

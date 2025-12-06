@@ -1,0 +1,30 @@
+
+
+[Particle]
+entity_file .\map\entity\xs\2\fplay5a\fplay5.r3e
+num	30
+pos box 0 0 0
+
+live_time 2
+time_speed 1.5
+gravity	0 -10 0
+entity_ani
+	start_power rand(-2.5,2.5) rand(-2.5,2.5) rand(-2.5,2.5)
+	start_color rand(150,255) rand(150,255) rand(150,255)
+	start_scale rand(1,2)
+	start_alpha 0
+	;start_zrot rand(0,360)
+alpha_type 3
+
+
+time 0.5
+	scale 1
+	alpha 255
+         
+time 2
+	scale 0
+               alpha 10
+
+
+
+end
