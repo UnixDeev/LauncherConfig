@@ -1,0 +1,35 @@
+
+
+[Particle]
+entity_file .\map\entity\xs\1\spkl\spkl.r3e
+num	40
+pos box 0 rand(2,3) 0
+
+live_time 3
+time_speed 1
+gravity	0 -15 0
+               start_time_range 0.9
+	start_power rand(-25,25) rand(1,5) rand(-25,25)
+	start_color rand(200,255) rand(200,255) rand(200,255)
+	start_scale rand(2,3)
+	start_alpha 255
+	;start_zrot rand(0,360)
+	flicker_alpha 100
+	flicker_time 0.1
+
+alpha_type 3
+
+time 1
+         ;alpha 0
+                      
+time 1.5
+	;scale rand(2,3)
+	;alpha 255
+         
+time 3
+	scale 0.1
+     
+     flicker
+
+
+end
