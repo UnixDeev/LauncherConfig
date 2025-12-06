@@ -1,20 +1,16 @@
 {
     "ListProxyServerName": [
-		"Основной сервер"
-	],
-	
-	"ListProxyServerIP": [
-		"5ae4cf3a41c0eaf21cdb454383b98dd4"
-	],
-	
-	"ListProxyServerPort": [
-		"e5dc79cca5a29b98b8be3dc83a211e88"
-	],
-	
-	"ListUrlAutoUpdate": [
-		"https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/PlayGamesAsterios/Update/"
-	],
-	
+        "[RU #1] Asterios [x5]"
+    ],
+    "ListProxyServerIP": [
+        "5ae4cf3a41c0eaf21cdb454383b98dd4"
+    ],
+    "ListProxyServerPort": [
+        "e5dc79cca5a29b98b8be3dc83a211e88"
+    ],
+    "ListUrlAutoUpdate": [
+        "https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/PlayGamesAsterios/Update/"
+    ],
     "ListActualLanguage": [
         "Russia"
     ],
@@ -108,11 +104,11 @@
     ],
     "AutoUpdateEnabled": true,
     "CheckFileStableEnabled": true,
-    "SendLogFileEnabled": true,
+    "SendLogFileEnabled": false,
     "RepairFileEnabled": true,
-    "MultiLanguageEnabled": true,
-    "CopyrightPoweredEnabled": false,
-    "NewsEnabled": true,
-    "ButtonAllLinkEnabled": true,
-    "ButtonSocialLinkEnabled": true
+    "MultiLanguageEnabled": false,
+    "CopyrightPoweredEnabled": true,
+    "NewsEnabled": false,
+    "ButtonAllLinkEnabled": false,
+    "ButtonSocialLinkEnabled": false
 }
