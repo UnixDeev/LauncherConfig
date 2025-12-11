@@ -1,0 +1,80 @@
+[MagicTrack]
+create_type 2
+
+
+
+time 0
+entity_id 8000141     ;충격실선효과
+scale 3 
+
+time 0
+entity_id 8000150     ;가운데글로우++++++++++++++++++++++++++++++
+pos xyz 0 0 0
+scale 6
+color 255 10 10
+
+time 0
+entity_id 8000150     ;가운데글로우++++++++++++++++++++++++++++++
+pos xyz 0 0 0
+scale 6
+color 255 10 10
+
+time 0
+entity_id 8000143     ;전체글로우
+pos xyz 0 0 0
+alpha 255
+scale 12
+
+time 0
+entity_id 8000144     ;파티클
+pos xyz 0 0 0
+scale 5.2
+
+time 0
+entity_id 8000146     ;파장
+pos xyz 0 0 10
+scale 3.3
+
+time 0
+entity_id 8000149     ;빛줄기사방으로퍼진다++++++++++++++++++++++++
+alpha 180
+pos xyz 0 0 0
+scale 1.8
+color 255 10 10
+
+time 0
+entity_id  8000156     ;light_dam_02(1_32frame)++++++++++++++++++++
+pos xyz 0 -25 0
+scale 2.2
+;color 255 10 10
+
+time 0
+entity_id  8000156     ;light_dam_02(1_32frame)+++++++++++++++++++
+pos xyz 0 -25 0
+scale 2.2
+;color 255 10 10
+
+
+time 0
+entity_id 8000145     ;퍼지는느낌++++++++++++++++++++++++++++++++
+pos xyz 0 0 0
+scale 10.5
+color 255 10 10
+
+
+time 0
+entity_id 8000148     ;데미지실선++++++++++++++++++++++++++++++++
+pos xyz 0 0 0
+scale 9
+color 150 10 10
+
+time 0.2
+entity_id 8000146     ;파장
+pos xyz 0 0 10
+scale 4.2
+
+
+
+
+
+end

@@ -1,0 +1,45 @@
+
+
+[Particle]
+entity_file  .\Effect\pulse_charger\cast\src\light_cast_02\light_cast_02.R3E
+num	1
+;pos box  rand(-5,5) 0 rand(-5,5)
+
+live_time 1
+time_speed 1
+;gravity	0 -56 0
+
+	;start_time_range 0.9
+	start_scale 1.5
+	start_alpha 255		
+	;start_zrot rand(-15,15)
+
+	
+alpha_type 3
+z_front -0.5
+y_billboard
+always_live
+
+
+
+time 0.5
+
+	alpha 255
+        ;scale 2.2
+
+	
+
+time 1	
+	alpha 255
+        ;scale 2.5
+
+
+
+time 1.5
+	alpha 255
+
+
+
+time 2
+	alpha 255
+end

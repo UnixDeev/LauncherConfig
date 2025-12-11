@@ -1,0 +1,38 @@
+[Particle]
+
+entity_file .\Chef\PVP_Item\COM_WEAPON_TSPEAR_117\773p\aura.R3E
+num 24
+pos box 0.6 -1.4 0
+
+live_time 3
+time_speed 1.5
+gravity 1 0 0
+
+	start_scale 1
+	start_color 255 255 255
+	start_alpha 30
+	start_zrot rand(-30,30)
+	start_power 1.5 1.5 0
+	alpha_type 3
+	z_front -0.1
+
+time 0.5
+	alpha 60
+	scale 4
+	zrot rand(-30,30)
+	color 100 100 100
+
+time 2
+	power 1.5 5 0
+	color 100 100 100
+	zrot rand(-30,30)
+	scale 2.5
+	alpha 150
+
+time 3
+	color 100 100 100
+	zrot rand(-30,30)
+	scale 1.5
+	alpha 10
+	
+end
