@@ -9,7 +9,7 @@
         "a8905d63327bddd1ed2361c891715b24"
     ],
     "ListUrlAutoUpdate": [
-        "https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/Example/NewsConfig.json1"
+        "https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/Example/NewsConfig.json"
     ],
     "ListActualLanguage": [
         "Russia"
@@ -18,7 +18,7 @@
         "Russia"
     ],
     "ListUrlNews": [
-        "https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/Example/NewsConfig.json"
+        "https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/EpicPvP/Update/"
     ],
     "ButtonAllLink": [
         {
