@@ -1,22 +1,23 @@
 {
 	"ListProxyServerName": [
-		"Сервер #RU 1"
+		"GATE EVO #1"
 	],
 	
 	"ListProxyServerIP": [
-		"e26ecdae19f353d915870b1b6471d497"
+		"78529e669b6c986a5df1f23e439b8d37"
 	],
 	
 	"ListProxyServerPort": [
-		"a8905d63327bddd1ed2361c891715b24"
+		"e5dc79cca5a29b98b8be3dc83a211e88"
 	],
 	
 	"ListUrlAutoUpdate": [
-		"https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/RFAdventure/Update/"
+		"https://rf-evo.ru/update/"
 	],
 	
 	"ListActualLanguage": [
-		"Russia"
+		"Russia",
+		"English"
 	],
 	
 	"ListDefaultLanguage": [
@@ -24,12 +25,12 @@
 	],
 
 	"ListUrlNews": [
-		"https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/Example/NewsConfig.json"
+		"https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/RF-EVO/NewsConfig.json"
 	],
 	
 	"ButtonAllLink": [
 		{
-			"ButtonEnabled": false,
+			"ButtonEnabled": true,
 			"ButtonName": 
 			{
 				"Russia": "Имя 111",
@@ -63,7 +64,7 @@
 			"ButtonURL": "https://example.com"
 		},
 		{
-			"ButtonEnabled": false,
+			"ButtonEnabled": true,
 			"ButtonName": 
 			{
 				"Russia": "Имя 2",
@@ -98,7 +99,7 @@
 			"ButtonNameAllLinkURL": "https://example.com"
 		},
 		{
-			"ButtonEnabled": false,
+			"ButtonEnabled": true,
 			"Name": "ВКонтакте",
 			"ButtonNameAllLinkURL": "https://example.com"
 		},
@@ -108,7 +109,7 @@
 			"ButtonNameAllLinkURL": "https://example.com"
 		},
 		{
-			"ButtonEnabled": false,
+			"ButtonEnabled": true,
 			"Name": "Discord",
 			"ButtonNameAllLinkURL": "https://example.com"
 		}
