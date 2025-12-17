@@ -116,10 +116,10 @@
 	],
 	
 	
-	"AutoUpdateEnabled": true,
-	"CheckFileStableEnabled": true,
+	"AutoUpdateEnabled": false,
+	"CheckFileStableEnabled": false,
 	"SendLogFileEnabled": false,
-	"RepairFileEnabled": true,
+	"RepairFileEnabled": false,
 	"MultiLanguageEnabled": false,
 	"CopyrightPoweredEnabled": true,
 	"NewsEnabled": false,
