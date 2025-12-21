@@ -1,11 +1,14 @@
 {
     "ListProxyServerName": [
-        "test"
+        "[RU №1] Asterios [x5]",
+        "[DE №2] Asterios [x5]"
     ],
     "ListProxyServerIP": [
-        "5ae4cf3a41c0eaf21cdb454383b98dd4"
+        "1212a35be73f109f1963abdefcee6c27",
+        "bd403cd3f4353b4893ffe6623dff9412"
     ],
     "ListProxyServerPort": [
+        "e5dc79cca5a29b98b8be3dc83a211e88",
         "e5dc79cca5a29b98b8be3dc83a211e88"
     ],
     "ListUrlAutoUpdate": [
