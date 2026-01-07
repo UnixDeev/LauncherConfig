@@ -1,0 +1,114 @@
+{
+    "ListProxyServerName": [
+        "MAIN PROXY TEST"
+    ],
+    "ListProxyServerIP": [
+        "5ae4cf3a41c0eaf21cdb454383b98dd4"
+    ],
+    "ListProxyServerPort": [
+        "a8905d63327bddd1ed2361c891715b24"
+    ],
+    "ListUrlAutoUpdate": [
+        "https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/PlayGamesAsterios/Updater/"
+    ],
+    "ListActualLanguage": [
+        "Russia"
+    ],
+    "ListDefaultLanguage": [
+        "Russia"
+    ],
+    "ListUrlNews": [
+        "https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/EpicPvP/Update/"
+    ],
+    "ButtonAllLink": [
+        {
+            "ButtonEnabled": true,
+            "ButtonName": {
+                "Russia": "Имя 111",
+                "English": "Name 111",
+                "Brazil": "Bouton",
+                "China": "Button",
+                "Indonesia": "Button",
+                "Japan": "Button",
+                "Korea": "Button",
+                "Philippines": "Button",
+                "Taiwan": "Button",
+                "Vietnam": "Button"
+            },
+            "ButtonURL": "https://example.com/12"
+        },
+        {
+            "ButtonEnabled": false,
+            "ButtonName": {
+                "Russia": "Button",
+                "English": "Кнопка",
+                "Brazil": "Bouton",
+                "China": "Button",
+                "Indonesia": "Button",
+                "Japan": "Button",
+                "Korea": "Button",
+                "Philippines": "Button",
+                "Taiwan": "Button",
+                "Vietnam": "Button"
+            },
+            "ButtonURL": "https://example.com3"
+        },
+        {
+            "ButtonEnabled": true,
+            "ButtonName": {
+                "Russia": "Имя 2",
+                "English": "Name 2",
+                "Brazil": "Bouton",
+                "China": "Button",
+                "Indonesia": "Button",
+                "Japan": "Button",
+                "Korea": "Button",
+                "Philippines": "Button",
+                "Taiwan": "Button",
+                "Vietnam": "Button"
+            },
+            "ButtonURL": "https://example.com/4"
+        }
+    ],
+    "ButtonSocialLink": [
+        {
+            "ButtonEnabled": false,
+            "Name": "YouTube",
+            "ButtonNameAllLinkURL": "https://example.com"
+        },
+        {
+            "ButtonEnabled": false,
+            "Name": "Instagram",
+            "ButtonNameAllLinkURL": "https://example.com"
+        },
+        {
+            "ButtonEnabled": false,
+            "Name": "TikTok",
+            "ButtonNameAllLinkURL": "https://example.com"
+        },
+        {
+            "ButtonEnabled": true,
+            "Name": "ВКонтакте",
+            "ButtonNameAllLinkURL": "https://example.com"
+        },
+        {
+            "ButtonEnabled": false,
+            "Name": "Telegram",
+            "ButtonNameAllLinkURL": "https://example.com"
+        },
+        {
+            "ButtonEnabled": true,
+            "Name": "Discord",
+            "ButtonNameAllLinkURL": "https://example.com"
+        }
+    ],
+    "AutoUpdateEnabled": true,
+    "CheckFileStableEnabled": true,
+    "SendLogFileEnabled": true,
+    "RepairFileEnabled": true,
+    "MultiLanguageEnabled": true,
+    "CopyrightPoweredEnabled": false,
+    "NewsEnabled": true,
+    "ButtonAllLinkEnabled": true,
+    "ButtonSocialLinkEnabled": true
+}
