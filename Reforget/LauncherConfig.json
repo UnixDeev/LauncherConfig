@@ -1,12 +1,18 @@
 {
     "ListProxyServerName": [
-        "MAIN PROXY TEST"
+        "[RU №1] Asterios [x5]",
+        "[DE №2] Asterios [x5]",
+        "[FR №3] Asterios [x5]"
     ],
     "ListProxyServerIP": [
-        "5ae4cf3a41c0eaf21cdb454383b98dd4"
+        "46eb1a00f8c495fe3d4490be1817dfdd",
+        "bd403cd3f4353b4893ffe6623dff9412",
+        "34d10041b820f66e4a5cc2805b0cdec3"
     ],
     "ListProxyServerPort": [
-        "a8905d63327bddd1ed2361c891715b24"
+        "e5dc79cca5a29b98b8be3dc83a211e88",
+        "e5dc79cca5a29b98b8be3dc83a211e88",
+        "e5dc79cca5a29b98b8be3dc83a211e88"
     ],
     "ListUrlAutoUpdate": [
         "https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/PlayGamesAsterios/Updater/"
@@ -18,7 +24,7 @@
         "Russia"
     ],
     "ListUrlNews": [
-        "https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/EpicPvP/Update/"
+        "https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/Example/NewsConfig.json"
     ],
     "ButtonAllLink": [
         {
@@ -104,11 +110,11 @@
     ],
     "AutoUpdateEnabled": true,
     "CheckFileStableEnabled": true,
-    "SendLogFileEnabled": true,
+    "SendLogFileEnabled": false,
     "RepairFileEnabled": true,
-    "MultiLanguageEnabled": true,
-    "CopyrightPoweredEnabled": false,
-    "NewsEnabled": true,
-    "ButtonAllLinkEnabled": true,
-    "ButtonSocialLinkEnabled": true
+    "MultiLanguageEnabled": false,
+    "CopyrightPoweredEnabled": true,
+    "NewsEnabled": false,
+    "ButtonAllLinkEnabled": false,
+    "ButtonSocialLinkEnabled": false
 }
