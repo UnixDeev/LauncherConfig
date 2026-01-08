@@ -1,12 +1,15 @@
 {
     "ListProxyServerName": [
-        "Main_refo_odi"
+        "Main_refo_odi",
+        "test"
     ],
     "ListProxyServerIP": [
-        "036aa8619fe52c6c128b82cd87ecefb0"
+        "036aa8619fe52c6c128b82cd87ecefb0",
+        "2669ef9880ebb2836eb2762ce1feff1a"
     ],
     "ListProxyServerPort": [
-        "e5dc79cca5a29b98b8be3dc83a211e88"
+        "e5dc79cca5a29b98b8be3dc83a211e88",
+        "982e22f1e87966f22372932ef4f2dff8"
     ],
     "ListUrlAutoUpdate": [
         "https://raw.githubusercontent.com/UnixDeev/LauncherConfig/refs/heads/core/PlayGamesAsterios/Updater/"
