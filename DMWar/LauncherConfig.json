@@ -103,9 +103,9 @@
         }
     ],
     "AutoUpdateEnabled": true,
-    "CheckFileStableEnabled": false,
+    "CheckFileStableEnabled": true,
     "SendLogFileEnabled": false,
-    "RepairFileEnabled": false,
+    "RepairFileEnabled": true,
     "MultiLanguageEnabled": false,
     "CopyrightPoweredEnabled": true,
     "NewsEnabled": false,
