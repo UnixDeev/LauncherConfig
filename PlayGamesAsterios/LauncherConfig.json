@@ -2,17 +2,14 @@
     "ListProxyServerName": [
         "[RU №1] Asterios [x5]",
         "[DE №2] Asterios [x5]",
-        "[FR №3] Asterios [x5]",
-        "[RU №4] Asterios [x5]"
+        "[RU №3] Asterios [x5]"
     ],
     "ListProxyServerIP": [
-        "46eb1a00f8c495fe3d4490be1817dfdd",
+        "fc1ceb55291e9db9e7d91fd86a9a9536",
         "bd403cd3f4353b4893ffe6623dff9412",
-        "34d10041b820f66e4a5cc2805b0cdec3",
-        "b2e0ad4d225aa5334b7dcd4ad3ed3e3f"
+        "46eb1a00f8c495fe3d4490be1817dfdd"
     ],
     "ListProxyServerPort": [
-        "e5dc79cca5a29b98b8be3dc83a211e88",
         "e5dc79cca5a29b98b8be3dc83a211e88",
         "e5dc79cca5a29b98b8be3dc83a211e88",
         "e5dc79cca5a29b98b8be3dc83a211e88"
