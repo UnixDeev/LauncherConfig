@@ -1,9 +1,9 @@
 {
     "ListProxyServerName": [
-        "MAIN PROXY TEST"
+        "GATE PROXY [RU]"
     ],
     "ListProxyServerIP": [
-        "5ae4cf3a41c0eaf21cdb454383b98dd4"
+        "c3cd33916ace75743e6a1f13a191d021"
     ],
     "ListProxyServerPort": [
         "a8905d63327bddd1ed2361c891715b24"
@@ -24,7 +24,7 @@
         {
             "ButtonEnabled": true,
             "ButtonName": {
-                "Russia": "Имя 111",
+                "Russia": "Форум",
                 "English": "Name 111",
                 "Brazil": "Bouton",
                 "China": "Button",
@@ -35,12 +35,12 @@
                 "Taiwan": "Button",
                 "Vietnam": "Button"
             },
-            "ButtonURL": "https://example.com/12"
+            "ButtonURL": "https://rf-level.ru/"
         },
         {
-            "ButtonEnabled": false,
+            "ButtonEnabled": true,
             "ButtonName": {
-                "Russia": "Button",
+                "Russia": "Личный Кабинет",
                 "English": "Кнопка",
                 "Brazil": "Bouton",
                 "China": "Button",
@@ -54,7 +54,7 @@
             "ButtonURL": "https://example.com3"
         },
         {
-            "ButtonEnabled": true,
+            "ButtonEnabled": false,
             "ButtonName": {
                 "Russia": "Имя 2",
                 "English": "Name 2",
@@ -102,13 +102,13 @@
             "ButtonNameAllLinkURL": "https://example.com"
         }
     ],
-    "AutoUpdateEnabled": true,
-    "CheckFileStableEnabled": true,
-    "SendLogFileEnabled": true,
-    "RepairFileEnabled": true,
-    "MultiLanguageEnabled": true,
+    "AutoUpdateEnabled": false,
+    "CheckFileStableEnabled": false,
+    "SendLogFileEnabled": false,
+    "RepairFileEnabled": false,
+    "MultiLanguageEnabled": false,
     "CopyrightPoweredEnabled": false,
     "NewsEnabled": true,
-    "ButtonAllLinkEnabled": true,
-    "ButtonSocialLinkEnabled": true
+    "ButtonAllLinkEnabled": false,
+    "ButtonSocialLinkEnabled": false
 }
